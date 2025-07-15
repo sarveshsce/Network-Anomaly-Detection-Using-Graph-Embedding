@@ -21,8 +21,8 @@ To get a local copy running, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/sarveshsce/filmFanatic.git
-cd 
+git clone https://github.com/sarveshsce/Network-Anomaly-Detection-Using-Graph-Embedding.git
+cd Network-Anomaly-Detection
 ```
 
 2. **Install dependencies:**
@@ -35,7 +35,7 @@ pip install requirements.txt
 3. **Run the application:**
 
 ```bash
-npm run dev
+streamlit run app.py
 ```
 
 
