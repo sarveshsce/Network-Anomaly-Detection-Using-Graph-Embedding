@@ -16,9 +16,9 @@ This project is a **Network Anomaly Detection Dashboard** built with [Streamlit]
 
 ## Installation
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/veenuuu/network-anomaly-detection.git
-   cd network-anomaly-detection
+ ```bash
+ git clone https://github.com/veenuuu/network-anomaly-detection.git
+ cd network-anomaly-detection
 
 
 2. **Install dependencies:**
