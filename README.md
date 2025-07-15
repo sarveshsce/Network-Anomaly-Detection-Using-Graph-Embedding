@@ -15,13 +15,27 @@ This project is a **Network Anomaly Detection Dashboard** built with [Streamlit]
 - Git (for cloning the repository)
 
 ## Installation
-1. **Clone the Repository**:
- ```bash
- git clone https://github.com/veenuuu/network-anomaly-detection.git
- cd network-anomaly-detection
 
+To get a local copy running, follow these steps:
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/sarveshsce/filmFanatic.git
+cd 
+```
 
 2. **Install dependencies:**
+
 ```bash
-npm install requirements.txt
+pip install requirements.txt
+```
+
+
+3. **Run the application:**
+
+```bash
+npm run dev
+```
+
 
