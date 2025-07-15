@@ -22,7 +22,6 @@ This project is a **Network Anomaly Detection Dashboard** built with [Streamlit]
 
 
 2. **Install dependencies:**
-
 ```bash
 npm install requirements.txt
-```
+
