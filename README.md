@@ -19,3 +19,10 @@ This project is a **Network Anomaly Detection Dashboard** built with [Streamlit]
    ```bash
    git clone https://github.com/veenuuu/network-anomaly-detection.git
    cd network-anomaly-detection
+
+
+2. **Install dependencies:**
+
+```bash
+npm install requirements.txt
+```
